@@ -1775,6 +1775,11 @@ form.popap-wrap .input-sub {
 
 @media only screen and (max-width : 768px) {
 
+.main-video__wrap iframe {
+	width: 100% !important;
+	height: 450px;
+}
+
     .up-button {
         bottom: 90px;
     }
